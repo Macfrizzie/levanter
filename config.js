@@ -84,4 +84,5 @@ module.exports = {
   WHITE_LIST: process.env.WHITE_LIST || '',
   BOT_LANG: process.env.BOT_LANG || 'english',
   YT_COOKIE: process.env.YT_COOKIE,
-}
+  }
+      
