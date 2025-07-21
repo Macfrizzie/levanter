@@ -1,8 +1,9 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
-    "PREFIX": "^[.,!]",
-    "SUDO": "0",
+    "SESSION_ID": "levanter_21d881bca20849443db90a95b4c5ec7ba7",
+    "PREFIX": "null",
+    "VPS": "true",
+    "SUDO": "2348037218414",
     "STICKER_PACKNAME": "❤️,LyFE",
     "ALWAYS_ONLINE": "false",
     "RMBG_KEY": "null",
